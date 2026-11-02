@@ -6,7 +6,7 @@ channel: "No Priors: AI, Machine Learning, Tech, & Startups"
 upload_date: 20261023
 duration_minutes: 41
 subtitle: en-orig (自动)
-fetched: 2026-10-30
+fetched: 2026-11-02
 ---
 
 [00:00:00] AI has become the tool that's causing this kind of security apocalypse is also the tool that can help us to solve it faster as well. It went from how to get everyone to using AI. Now all of a sudden everyone's racing to figure out what AI security means. &gt;&gt; I've heard serious technical people say things like air gap everything important and we're like not going to be able to trust the internet for a while and we just assume all the critical infrastructure and government services fall down at some point. Is that your expectation for what happens? Dane, I'm so excited to do this with you. &gt;&gt; Yeah, thank you. Thanks for coming here, too. &gt;&gt; I'm sure I'm not the first person to make this joke, but your last name connect. That's pretty good for the Cloudflare value prop. &gt;&gt; Yeah. Yeah. Uh there's been some jokes about renaming the show next year. So, &gt;&gt; so with everything that CloudFare is doing, what are your top few priorities as CTR right now? Well, I mean, this past year, uh, it feels like 10 years

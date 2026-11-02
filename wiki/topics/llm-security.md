@@ -2524,3 +2524,12 @@ Arvind 给的三条战争打法里，本页认为第二条最有用（[00:19:12]
   - **① "无界的执行、成本和延迟。"**
   - ⚠️⚠️ **② "还有确定性——可能一百次里有两次它会干出我们不想要的离谱事。"**
 - ✅ **本页标注第二条值得记，因为它给了一个数量级**：⚠️⚠️ **本页此前的非确定性讨论多是定性的；这一条把"今天不能把 agent 放在确定性接口的位置上"落到了约 2% 的离谱率上。而这意味着这条阻碍有一个明确的到期条件，而不是一条原则性的禁止。** 🔗 **与 [Arca 的"所有安全限制都完全是确定性的，它们把决策权从 agent 手里拿掉"](../videos/20261031-latent-space-arca-agents-prompt-people-constrain-at-capability-edges.md) 对读：Arca 的做法是把 agent 的输出强制降格成受约束表示，而"agent 即 API"是把受约束表示整个取消——两者的障碍是同一个。**
+
+## Dane Knecht：漏洞发现扩散与安全投入高峰（2026-10-23）
+
+来源：[No Priors / Dane Knecht](../videos/20261023-no-priors-dane-knecht-agentic-web-security.md)
+
+- Cloudflare CTO 称 AI 扩大了漏洞发现者范围，并预测约 18 个月内工程时间的一半以上可能投入安全；频率与时间占比均为其观察或预测，未经独立核实（[00:02:04]–[00:05:08]）。
+- 他主张缩小攻击面、将安全审查嵌入开发，并预计扩大红队；发现更多漏洞不代表修复吞吐量必然跟上（[00:10:09]–[00:12:12]、[00:35:27]–[00:36:29]）。
+- 他支持开放安全模型，理由是防守能力应覆盖更多人；主持人同时提出同一模型的攻防两用风险。这是分配与滥用之间的权衡，不是净效果已被证明（[00:38:30]–[00:39:30]）。
+- 对照 [Greg Brockman 的安全支出观点](../videos/20261015-no-priors-greg-brockman-cyber-spend-drug-physics.md)：工程时间占比与安全支出是不同指标，不能直接换算（[Brockman 期](../videos/20261015-no-priors-greg-brockman-cyber-spend-drug-physics.md) [00:34:15]）（[Knecht 期](../videos/20261023-no-priors-dane-knecht-agentic-web-security.md) [00:03:04]）。

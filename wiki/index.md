@@ -4,6 +4,7 @@
 
 ## 人物
 
+
 - [Andrej Karpathy](people/andrej-karpathy.md) — OpenAI 创始成员，LLM OS / LLM 心理学框架提出者
 - [Jensen Huang](people/jensen-huang.md) — NVIDIA CEO，四条 scaling laws、token 工厂世界观
 - [Dwarkesh Patel](people/dwarkesh-patel.md) — 深度访谈播客主持人
@@ -197,6 +198,7 @@
 
 ## 视频
 
+
 ### Andrej Karpathy
 - 2023-11-23 [Intro to Large Language Models](videos/20231123-karpathy-intro-to-llms.md)
 - 2024-02-20 [Let's build the GPT Tokenizer](videos/20240220-karpathy-gpt-tokenizer.md)
@@ -262,6 +264,8 @@
 - 2026-09-07 [肖志斌：AI 芯片、制程降的是功耗、SRAM 停止微缩、Groq/Cerebras/SambaNova、英伟达的执行力](videos/20260907-uncle-moon-xiao-zhibin-ai-chips.md)
 
 ### No Priors
+
+- 2026-10-23 [Dane Knecht：Agent 时代的安全压力、互联网内容变现与企业内部 AI](videos/20261023-no-priors-dane-knecht-agentic-web-security.md)（Cloudflare CTO；公司实践与数字为自述，安全时间占比为预测）
 - 2026-05-21 [Andrew Feldman：Cerebras 630 亿 IPO、晶圆级芯片与快 AI](videos/20260521-no-priors-cerebras-feldman.md)
 - 2026-05-28 [Onyx Security（Maxim Bar Kogan）：造 agent 去看管 agent](videos/20260528-no-priors-onyx-security.md)
 - 2026-06-10 [Zuckerberg、Priscilla Chan、Alex Reeves：用 AI 建生物学世界模型（CZI Biohub）](videos/20260610-no-priors-zuckerberg-czi-biology.md)
