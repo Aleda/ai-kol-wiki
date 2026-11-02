@@ -1,8 +1,8 @@
 site_name: AI KOL Wiki
 site_description: 中美 AI KOL 长视频观点知识库（LLM Wiki 模式）
-site_url: https://nolimitkun.github.io/ai-kol-wiki/
-repo_url: https://github.com/nolimitkun/ai-kol-wiki
-repo_name: nolimitkun/ai-kol-wiki
+site_url: https://aleda.github.io/ai-kol-wiki/
+repo_url: https://github.com/Aleda/ai-kol-wiki
+repo_name: Aleda/ai-kol-wiki
 
 # _docs 由 CI 拼装（.github/workflows/pages.yml）：
 #   README.md -> _docs/index.md，外加 wiki/、sources/、CLAUDE.md、watchlist.yaml
