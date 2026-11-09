@@ -52,6 +52,13 @@ kols:
     min_minutes: 30
     lang: en
 
+  # Sequoia 主频道还混有 AI Ascent 等其他节目，这里只订阅 Training Data 播放列表
+  - slug: training-data
+    name: Training Data (Sequoia Capital — Sonya Huang, Alfred Lin 等)
+    channel: https://www.youtube.com/playlist?list=PLOhHNjZItNnMm5tdW61JpnyxeYH5NDDx8
+    min_minutes: 20
+    lang: en
+
   # ── 中国 ──────────────────────────────────────
   - slug: zhang-xiaojun
     name: 张小珺（商业访谈录）

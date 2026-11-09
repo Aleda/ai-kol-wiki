@@ -3012,3 +3012,7 @@ Neko 的全部数字（499 美元、53 项血液指标、6000 多张影像、950
 
 归档用户提供的原始 HTML 与带 P 段落编号的文字，新增[视频页](videos/20260316-zhang-xiaojun-xie-saining-world-models.md)及[谢赛宁人物页](people/xie-saining.md)，回填物理 AI、训练、实验室文化、评估与安全主题并更新目录。YouTube 未提供字幕，本文是微信节选整理而非七小时完整版总结；Research taste、JEPA 与学术生涯省略部分留待新增信源补齐，不创建虚假时间戳，也不将视频标为已完成完整抓取。
 
+
+## 2026-11-09 — 摄取 Training Data / Rich Sutton & Khurram Javed
+
+podcastrex 转录页被 Cloudflare 人机验证拦截，改用 fetch.py 抓 Sequoia Capital 官方 YouTube（xH7U7w9Qzlo）的自动字幕，覆盖全片 54 分钟（[00:00:00]–[00:52:27]，53 个锚点）。新增[视频页](videos/20260818-training-data-sutton-javed-continual-learning-oak.md)、[Rich Sutton](people/rich-sutton.md)、[Khurram Javed](people/khurram-javed.md)、[Training Data 主持人](people/training-data-hosts.md)人物页，回填 [LLM 训练管线](topics/llm-training-pipeline.md)与[物理 AI 与机器人](topics/physical-ai-and-robotics.md)，更新目录。字幕无说话人标签，归属按内容判断并在视频页注明；新频道 slug 为 `training-data`，已加入 watchlist.yaml，订阅的是 Sequoia 频道下的 Training Data 播放列表，避免混入 AI Ascent 等其他节目。

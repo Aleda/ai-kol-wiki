@@ -1015,3 +1015,10 @@ Cosmos 1→2→2.5→3 的演进终点是**把 reason / predict / transfer / pol
 
 并读本页已有李飞飞 / World Labs 与 Dyna 的材料：应分别比较空间表征、未来状态预测、动作执行和真实环境验证。本库不把三者直接当作同一种产品，也不把谢赛宁对同行的分类当成对方的自我定义。
 
+
+## Sutton & Javed：仿真里有人在环，agent 应该自己学出模型（Oak Lab，2026-08）
+来源：[Training Data / Sutton & Javed](../videos/20260818-training-data-sutton-javed-continual-learning-oak.md)
+
+- 主持人以主要在仿真中训练的自动驾驶公司为反例。[Khurram Javed](../people/khurram-javed.md) 回应：构建仿真需要大量工程师反复修补 sim-to-real gap，人一直在环里；他主张 agent 从自身经验学出模型，模型错了能自己修，人造模拟器只有在人发现问题时才更新（[00:16:05]–[00:17:05]）。
+- [Rich Sutton](../people/rich-sutton.md) 认为任何模拟都远小于真实世界，例如无人机在物理世界中的摩擦和电机细节（[00:15:05]）；他的松鼠例子强调动物不靠显式计算也能处理复杂物理任务（[00:30:14]–[00:31:14]）。
+- 这与本页 Applied Intuition 等供应商"合成数据加速自动驾驶"的立场相反，与蚂蚁灵波"仿真只用于评测"更接近，但三方理由不同：Sutton 和 Javed 的理由是人类在环无法扩展，不是数据同质化。
