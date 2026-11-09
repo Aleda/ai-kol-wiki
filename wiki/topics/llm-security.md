@@ -2533,3 +2533,10 @@ Arvind 给的三条战争打法里，本页认为第二条最有用（[00:19:12]
 - 他主张缩小攻击面、将安全审查嵌入开发，并预计扩大红队；发现更多漏洞不代表修复吞吐量必然跟上（[00:10:09]–[00:12:12]、[00:35:27]–[00:36:29]）。
 - 他支持开放安全模型，理由是防守能力应覆盖更多人；主持人同时提出同一模型的攻防两用风险。这是分配与滥用之间的权衡，不是净效果已被证明（[00:38:30]–[00:39:30]）。
 - 对照 [Greg Brockman 的安全支出观点](../videos/20261015-no-priors-greg-brockman-cyber-spend-drug-physics.md)：工程时间占比与安全支出是不同指标，不能直接换算（[Brockman 期](../videos/20261015-no-priors-greg-brockman-cyber-spend-drug-physics.md) [00:34:15]）（[Knecht 期](../videos/20261023-no-priors-dane-knecht-agentic-web-security.md) [00:03:04]）。
+
+## 谢赛宁：用预测动作后果辅助安全决策（2026-03）
+
+来源：[张小珺 #133 / 谢赛宁](../videos/20260316-zhang-xiaojun-xie-saining-world-models.md)，微信节选。
+
+他主张世界模型可以在推理阶段预测危险动作的后果，补充仅靠行为微调和 RL 的安全约束。这是技术方向的论证，没有给出经验证的安全保证；世界模型误差、代价函数与分布变化仍需单独评估。（[视频页](../videos/20260316-zhang-xiaojun-xie-saining-world-models.md)；[原文 P178–P182](../../sources/zhang-xiaojun/20260316-iiBY0fqpThI/transcript.md#p178)）
+

@@ -3007,3 +3007,8 @@ Neko 的全部数字（499 美元、53 项血液指标、6000 多张影像、950
 ## 2026-11-02 — 摄取 No Priors / Dane Knecht
 
 新增 [视频页](videos/20261023-no-priors-dane-knecht-agentic-web-security.md)、[人物页](people/dane-knecht.md)，回填 [LLM 安全](topics/llm-security.md)、[AI 商业化与价值捕获](topics/ai-business-and-value-capture.md) 和 [AI 实验室文化](topics/ai-lab-culture.md)，更新目录。原始自动字幕由 fetch.py 归档；公司数字为自述，预测和商业设想单独标注。
+
+## 2026-11-09 — 谢赛宁 / 张小珺 #133 微信编辑节选整理
+
+归档用户提供的原始 HTML 与带 P 段落编号的文字，新增[视频页](videos/20260316-zhang-xiaojun-xie-saining-world-models.md)及[谢赛宁人物页](people/xie-saining.md)，回填物理 AI、训练、实验室文化、评估与安全主题并更新目录。YouTube 未提供字幕，本文是微信节选整理而非七小时完整版总结；Research taste、JEPA 与学术生涯省略部分留待新增信源补齐，不创建虚假时间戳，也不将视频标为已完成完整抓取。
+

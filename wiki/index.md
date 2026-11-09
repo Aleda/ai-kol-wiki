@@ -4,6 +4,8 @@
 
 ## 人物
 
+- [谢赛宁（Saining Xie）](people/xie-saining.md) — AMI、表征学习与预测式世界模型；2026-03 访谈微信节选
+
 
 - [Andrej Karpathy](people/andrej-karpathy.md) — OpenAI 创始成员，LLM OS / LLM 心理学框架提出者
 - [Jensen Huang](people/jensen-huang.md) — NVIDIA CEO，四条 scaling laws、token 工厂世界观
@@ -233,6 +235,7 @@
 - 2026-10-26 [#503 "我那场 colloquium 里说的每一句都错了"：三位当事领域数学家谈 OpenAI 的 700 篇、quasi-RH 与 Navier–Stokes，以及"百万美元的数学问题，与万亿美元的工程问题"](videos/20261026-lex-math-crisis-quasi-rh-navier-stokes.md)（[Steven Brunton × Ankur Moitra × Alex](people/math-crisis-panel.md)：华盛顿大学流体 / MIT 复杂性理论 / 罗格斯数论；⚠️⚠️ **本库第一份来自被影响领域内部的 AI 数学材料**——此前五个节点全部来自厂商侧或主播转述（[Brockman](videos/20260914-a16z-greg-brockman-agi-era.md)、[Noam Brown](videos/20260917-dwarkesh-noam-brown-agent-swarms-rsi.md)、[OpenAI 数学团队](videos/20260908-a16z-openai-math-reasoning-astra.md)、[All-In 的 700 篇转述](videos/20261010-all-in-claude-conscious-model-welfare-openai-math.md)）；⚠️ **事发当周录制、三人都明说还没读完，主持人自己说"今天说的有四到八成五年后会被证伪"**；⚠️ **人工字幕不带姓名标签，本库按领域归属并在页首说明；第三位嘉宾转录稿里只有名没有姓，不写定**；✅ 七处值得保存：⚠️⚠️ **一条可核对的专家预测失败记录——普林斯顿 colloquium 上论证 Fermat 大定理形式化还要多年，两天后 Anthropic 放出 1,300 万行 sorry-free 的 Lean 证明："我那场 colloquium 里说的每一句都错了"**、⚠️⚠️ **"自动形式化基本解决了，canonization 没有"+「Mathlib 光环」这个可操作概念（离库一两步可整本形式化，三四步远时同一对象的两个定义会打架）**、⚠️⚠️ **本库对这批成果最具体的降温，来自被点名领域的在职工程研究者："日常的工程流体几乎完全没有改变""我们解掉了百万美元的数学问题，还有一个万亿美元的工程问题"——而他给的是可被自己证伪的"我的工作流没变"，比 [Chamath](videos/20261010-all-in-claude-conscious-model-welfare-openai-math.md) 与 [Kohli](videos/20261010-latent-space-alphafold-didnt-solve-protein-folding.md) 的同类拆解证据形态更强**、⚠️⚠️ **"凸包还是半群"（转述 Tim Gowers）并把 quasi-RH 往低判成"一大堆非常知名的东西的漂亮组合"，支撑是两年前 cubic Gauss sums 的突破正是 AI 走的路；而方法"根本上到不了 1/2"**、⚠️⚠️ **"prompt 了几千个、只放成功的、约 10% 成功率"——由此本库第一次把"逐条可验证"与"整体可评估"分开**、⚠️⚠️ **三条有具体指认的机构级后果：一篇论文页脚写明因传闻提前放出、unique games 猜想提出者 Subhash Khot 说他不会读那份证明、研究生"跑 harness 爬开放问题往 arXiv 灌论文"**、⚠️⚠️ **subliminal learning 的机械解释（概念向量非正交 → 微调外部性可被协调加总，通灵板比喻）+ "自然界厌恶计算上困难的问题"这条可否证提法**；另有**被证明的 Navier–Stokes 是 Clay 四个版本里带光滑外力那个（三维、涡拉伸细化）**、**unique games 猜想成立而 Moitra 自陈本来是怀疑方**、**3SUM（Anthropic 侧）即使没有新想法也重组了 fine-grained complexity**、**Lean 置信度的隐含条件是"陈述此前已在 Mathlib 里"（语义对齐已被独立消掉）**、**Brunton 的可验证性 × 下注大小两轴防火墙（挂在 FAA / 美国医学会 / 律师协会上）**、**门童谬误与"一件事变便宜使正交的事更贵"**、**"作业成绩与考试成绩去相关"的双峰分布与计算器七十年对照**、**"假装你已经拿到终身教职"与"只做 future-proof 的问题"**、⚠️ **Terence Tao 的"哀悼那条没走的路"由主持人朗读、本库按转述记录**、⚠️ **主持人把编程侧的转折点放在 2025-12（无数据，仅作时间锚）**）
 
 ### 张小珺·商业访谈录
+- 2026-03-16 [谢赛宁：从表征学习到预测大脑，与杨立昆创立 AMI](videos/20260316-zhang-xiaojun-xie-saining-world-models.md)（#133；微信编辑节选整理，非七小时全文；附完整版回听导航）
 - 2026-04-15 [广密·全球大模型季报第 9 集：Coding 是 AGI 第二幕、御三家真相、模型即 OS](videos/20260415-zhang-xiaojun-guangmi-llm-quarterly-9.md)
 - 2026-07-16 [柯丽一鸣（Kay Ke）：Physical Intelligence 内部视角与美国机器人全景](videos/20260716-zhang-xiaojun-kay-ke-physical-intelligence.md)
 - 2026-04-24 [罗福莉：OpenClaw 是划时代 agent 框架、Agent 很吃后训练、卡的分配与组织平权](videos/20260424-zhang-xiaojun-luo-fuli-agent-paradigm.md)

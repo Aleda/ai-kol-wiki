@@ -517,3 +517,12 @@
 来源：[No Priors / Dane Knecht](../videos/20261023-no-priors-dane-knecht-agentic-web-security.md)
 
 Knecht 称 Cloudflare OS 为员工提供业务上下文和数据治理；他举例将跨三个团队的客户邮件流程改为工具辅助、经理审批，并提及组织重组导致同事离开。公司重视交付而非 token 排行，按每日开支设置分级提醒；他还称一年招聘约 1000 名实习生以带动 AI 使用。这些是公司自述，不能由此推算整体生产率或净岗位变化（[00:20:18]–[00:25:20]、[00:28:22]–[00:30:24]）。
+
+## 谢赛宁：重新定义问题的空间（2026-03）
+
+来源：[张小珺 #133 / 谢赛宁](../videos/20260316-zhang-xiaojun-xie-saining-world-models.md)，微信节选，有具名发言但无音视频时间戳。
+
+谢赛宁认为行业叙事通过 benchmark 影响资源分配，使研究员难以重新定义问题。他设想 AMI 联合有真实问题和数据的产业伙伴，在纯学术与完全封闭的研发之间寻找平衡；他明确说不是所有研发都会开源。他主张降低过强 ego，同时保留年轻研究员的可见度，并承认自己没有创业成败经验。（[视频页](../videos/20260316-zhang-xiaojun-xie-saining-world-models.md)；[原文 P047](../../sources/zhang-xiaojun/20260316-iiBY0fqpThI/transcript.md#p047)、[P079](../../sources/zhang-xiaojun/20260316-iiBY0fqpThI/transcript.md#p079)、[P097](../../sources/zhang-xiaojun/20260316-iiBY0fqpThI/transcript.md#p097)、[P113](../../sources/zhang-xiaojun/20260316-iiBY0fqpThI/transcript.md#p113)）
+
+与本库姚顺宇、LeCun 等材料并读时，应区分研究探索、工程协作与产品交付的组织目标。本期对硅谷的批评是创业者立场，不能泛化成所有实验室的事实。
+

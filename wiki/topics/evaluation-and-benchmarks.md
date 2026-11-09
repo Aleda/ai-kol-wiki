@@ -1279,3 +1279,12 @@
 > ⚠️⚠️ **"我们有一个问题，是它不能正确地标引用……结果下一个模型发布就解决了。它从大概 70% 变成了 99%。我们什么都没做，而且挺好的。"**
 
 - ✅ **本页标注这条与本库"脚手架半衰期"那条线的关系，以及它多出来的那一层**：🔗 **既有材料是 [Serval 的示例库](../videos/20261029-no-priors-serval-boundary-is-the-product-least-privilege.md)、[Lovable 的 skills](../videos/20261028-latent-space-supabase-declarative-schema-billions-of-databases.md)、[Anthropic 的"智能看起来越来越饱和"](../videos/20261027-latent-space-anthropic-platform-cpu-rust-distillation.md) 都在说脚手架会被模型进步作废。** ⚠️⚠️ **而这一条说的是测量设施也在同一条曲线上：建复杂 eval 的投入可能会被下一次模型发布直接抹掉，所以"什么时候开始认真做 eval"是一个与模型进步赛跑的时点判断，而他的答案在 2026 年之前是"不该做"。** ✅ **本页认为这是对本页通篇"要自建 eval"主张的一条重要限定——自建 eval 的收益率不是常数，它随模型进步放缓而上升。**
+
+## 谢赛宁：测到知识检索，还是世界理解？（2026-03）
+
+来源：[张小珺 #133 / 谢赛宁](../videos/20260316-zhang-xiaojun-xie-saining-world-models.md)，微信编辑节选。
+
+他担心 benchmark 混合了事实知识检索与世界理解，一些多模态任务可依靠语言统计而非真实视觉完成；他主张检验连续物理环境中的交互与可靠性。（[视频页](../videos/20260316-zhang-xiaojun-xie-saining-world-models.md)；[原文 P192](../../sources/zhang-xiaojun/20260316-iiBY0fqpThI/transcript.md#p192)、[P271](../../sources/zhang-xiaojun/20260316-iiBY0fqpThI/transcript.md#p271)、[P367](../../sources/zhang-xiaojun/20260316-iiBY0fqpThI/transcript.md#p367)）
+
+本库由此提出的检查问题是：任务是否必须利用视觉和状态变化？改变动作或环境后，模型能否预测并修正？这是基于访谈的评测建议，不是节目已经完成的对照实验。
+
