@@ -198,6 +198,7 @@
 - [Khurram Javed](people/khurram-javed.md) — Oak Lab 联创、Sutton 的博士生：Big World Hypothesis、合成数据受人类专长约束、大实验室卡在局部极小值
 - [Training Data 主持人](people/training-data-hosts.md) — Sequoia Capital 的 Sonya Huang 与 Alfred Lin
 - [孟岩](people/meng-yan.md) — 有知有行创始人、「无人知晓」主播：AI 抬高内容创作基线、《智能简史》五次突破的"分别心"读法、算法放大语言的压缩代价
+- [李继刚](people/li-jigang.md) — 读书人、投资人，以公开分享 prompt 闻名：三个世界（原子/比特/向量）、从网到井、脑力交给模型心力留给人、AMV 与 memory/soul 的"环"、taste 即权重、水的教育与火的教育
 
 ## 主题
 
@@ -462,4 +463,5 @@
 
 ### 无人知晓（孟岩）
 
+- 2026-03-03 [孟岩对话李继刚：人何以自处——脑力交给模型，心力留给人](videos/20260303-wurenzhixiao-meng-yan-li-jigang-how-to-be-human.md)（E45，约 206 分钟；三个世界、从网到井、两种协作姿态、AMV 与 memory/soul、agent 面试、水与火的教育；推演为当事人自述，转录稿为本地 whisper 未校对、无说话人标签）
 - 2026-08-25 [孟岩：我们从未看见彼此——用《智能简史》的五次突破解释人为什么看不见彼此](videos/20260825-wurenzhixiao-meng-yan-we-never-see-each-other.md)（E46，独白；电影《好朋友们》、Max Bennett 五次智能突破的转述、Tim Urban 论算法、克里希那穆提的意象与全然注意力；科学内容为二手转述，转录稿为本地 whisper 未校对）

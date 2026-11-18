@@ -3396,3 +3396,7 @@ podcastrex 转录页被 Cloudflare 人机验证拦截，改用 fetch.py 抓 Sequ
 ## 2026-11-16 — 摄取无人知晓 E46 / 孟岩「我们从未看见彼此」
 
 有知有行节目页只有时间轴和参考资料，没有逐字稿。从页面取得官方音频（81 分钟），用 mlx-whisper large-v3-turbo 在本机转录；片头 00:00:00–00:01:25 与片尾 01:20:04 之后是音乐，whisper 在其上产生的幻觉文字已删除，开头一分钟用无 prompt 的二次转录补回。正文未校对，专名还原写在视频页页首。新增[视频页](videos/20260825-wurenzhixiao-meng-yan-we-never-see-each-other.md)、[孟岩人物页](people/meng-yan.md)，回填 [AI 与就业](topics/ai-and-jobs.md)，更新目录。频道 slug 为 `wurenzhixiao`，source id 为 `yzyx2250`（有知有行素材编号）；该节目不在 YouTube，discover.py 无法扫描，未加入 watchlist.yaml。
+
+## 2026-11-18 — 摄取无人知晓 E45 / 孟岩对话李继刚「人何以自处」
+
+网页检索未找到逐字稿，有知有行节目页只有时间轴和注释。从页面取得官方音频（206 分钟），用 mlx-whisper large-v3-turbo 本地转录，关闭 condition_on_previous_text 以防长音频重复；删除片头 00:00:52 之前和片尾 03:25:45 之后音乐上的幻觉文字。转录稿无说话人标签，归属按内容判断并在视频页说明。新增[视频页](videos/20260303-wurenzhixiao-meng-yan-li-jigang-how-to-be-human.md)、[李继刚人物页](people/li-jigang.md)，扩充[孟岩人物页](people/meng-yan.md)，回填 [LLM 实用方法论](topics/using-llms-in-practice.md)、[AI 与就业](topics/ai-and-jobs.md)、[AI 与教育](topics/ai-and-education.md)、[AI 商业化与价值捕获](topics/ai-business-and-value-capture.md)，更新目录。source id 为 `yzyx2141`。
