@@ -181,6 +181,7 @@
 - [Rich Sutton](people/rich-sutton.md) — 强化学习奠基人之一、《The Bitter Lesson》作者、Oak Lab 联创：持续学习就是学习、LLM 权重部署后不变、合成数据是大错误、continual backprop
 - [Khurram Javed](people/khurram-javed.md) — Oak Lab 联创、Sutton 的博士生：Big World Hypothesis、合成数据受人类专长约束、大实验室卡在局部极小值
 - [Training Data 主持人](people/training-data-hosts.md) — Sequoia Capital 的 Sonya Huang 与 Alfred Lin
+- [孟岩](people/meng-yan.md) — 有知有行创始人、「无人知晓」主播：AI 抬高内容创作基线、《智能简史》五次突破的"分别心"读法、算法放大语言的压缩代价
 
 ## 主题
 
@@ -417,3 +418,7 @@
 ### Training Data（Sequoia Capital）
 
 - 2026-08-18 [Rich Sutton & Khurram Javed：模型为什么上线后就不再学习，以及 Oak 打算怎么改](videos/20260818-training-data-sutton-javed-continual-learning-oak.md)（Oak Lab 两位联创；Bitter Lesson 的本意、Big World Hypothesis、灾难性遗忘与 continual backprop、万亿参数 20 瓦目标；路线与时间表为创始人设想）
+
+### 无人知晓（孟岩）
+
+- 2026-08-25 [孟岩：我们从未看见彼此——用《智能简史》的五次突破解释人为什么看不见彼此](videos/20260825-wurenzhixiao-meng-yan-we-never-see-each-other.md)（E46，独白；电影《好朋友们》、Max Bennett 五次智能突破的转述、Tim Urban 论算法、克里希那穆提的意象与全然注意力；科学内容为二手转述，转录稿为本地 whisper 未校对）

@@ -3016,3 +3016,7 @@ Neko 的全部数字（499 美元、53 项血液指标、6000 多张影像、950
 ## 2026-11-09 — 摄取 Training Data / Rich Sutton & Khurram Javed
 
 podcastrex 转录页被 Cloudflare 人机验证拦截，改用 fetch.py 抓 Sequoia Capital 官方 YouTube（xH7U7w9Qzlo）的自动字幕，覆盖全片 54 分钟（[00:00:00]–[00:52:27]，53 个锚点）。新增[视频页](videos/20260818-training-data-sutton-javed-continual-learning-oak.md)、[Rich Sutton](people/rich-sutton.md)、[Khurram Javed](people/khurram-javed.md)、[Training Data 主持人](people/training-data-hosts.md)人物页，回填 [LLM 训练管线](topics/llm-training-pipeline.md)与[物理 AI 与机器人](topics/physical-ai-and-robotics.md)，更新目录。字幕无说话人标签，归属按内容判断并在视频页注明；新频道 slug 为 `training-data`，已加入 watchlist.yaml，订阅的是 Sequoia 频道下的 Training Data 播放列表，避免混入 AI Ascent 等其他节目。
+
+## 2026-11-16 — 摄取无人知晓 E46 / 孟岩「我们从未看见彼此」
+
+有知有行节目页只有时间轴和参考资料，没有逐字稿。从页面取得官方音频（81 分钟），用 mlx-whisper large-v3-turbo 在本机转录；片头 00:00:00–00:01:25 与片尾 01:20:04 之后是音乐，whisper 在其上产生的幻觉文字已删除，开头一分钟用无 prompt 的二次转录补回。正文未校对，专名还原写在视频页页首。新增[视频页](videos/20260825-wurenzhixiao-meng-yan-we-never-see-each-other.md)、[孟岩人物页](people/meng-yan.md)，回填 [AI 与就业](topics/ai-and-jobs.md)，更新目录。频道 slug 为 `wurenzhixiao`，source id 为 `yzyx2250`（有知有行素材编号）；该节目不在 YouTube，discover.py 无法扫描，未加入 watchlist.yaml。
