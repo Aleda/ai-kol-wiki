@@ -30,28 +30,29 @@
 <!-- STATS:BLOCK:START -->
 ## 📊 数据统计
 
-> 自动生成于 2026-11-09（每次 CI 构建刷新）。
+> 自动生成于 2026-11-18（每次 CI 构建刷新）。
 
 | 指标 | 数量 |
 |---|---|
-| 视频转录稿 | 190 |
-| 人物页 | 165 |
+| 视频转录稿 | 215 |
+| 人物页 | 184 |
 | 主题页 | 16 |
-| 关注频道 | 9（活跃 9） |
+| 关注频道 | 10（活跃 10） |
 
 各频道已收录期数：
 
 | 频道 | 期数 |
 |---|---|
-| a16z (Andreessen Horowitz) | 45 |
-| Latent Space (swyx & Alessio) | 44 |
-| All-In Podcast (Chamath, Sacks, Friedberg, Calacanis) | 25 |
-| No Priors (Sarah Guo & Elad Gil) | 19 |
+| Latent Space (swyx & Alessio) | 53 |
+| a16z (Andreessen Horowitz) | 52 |
+| All-In Podcast (Chamath, Sacks, Friedberg, Calacanis) | 28 |
+| No Priors (Sarah Guo & Elad Gil) | 21 |
 | 张小珺（商业访谈录） | 19 |
-| Dwarkesh Patel | 12 |
-| 月球大叔（Uncle Moon） | 11 |
+| Dwarkesh Patel | 13 |
+| 月球大叔（Uncle Moon） | 12 |
 | Lex Fridman | 10 |
 | Andrej Karpathy | 5 |
+| Training Data (Sequoia Capital — Sonya Huang, Alfred Lin 等) | 1 |
 <!-- STATS:BLOCK:END -->
 
 
