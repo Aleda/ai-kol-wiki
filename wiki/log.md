@@ -3400,3 +3400,9 @@ podcastrex 转录页被 Cloudflare 人机验证拦截，改用 fetch.py 抓 Sequ
 ## 2026-11-18 — 摄取无人知晓 E45 / 孟岩对话李继刚「人何以自处」
 
 网页检索未找到逐字稿，有知有行节目页只有时间轴和注释。从页面取得官方音频（206 分钟），用 mlx-whisper large-v3-turbo 本地转录，关闭 condition_on_previous_text 以防长音频重复；删除片头 00:00:52 之前和片尾 03:25:45 之后音乐上的幻觉文字。转录稿无说话人标签，归属按内容判断并在视频页说明。新增[视频页](videos/20260303-wurenzhixiao-meng-yan-li-jigang-how-to-be-human.md)、[李继刚人物页](people/li-jigang.md)，扩充[孟岩人物页](people/meng-yan.md)，回填 [LLM 实用方法论](topics/using-llms-in-practice.md)、[AI 与就业](topics/ai-and-jobs.md)、[AI 与教育](topics/ai-and-education.md)、[AI 商业化与价值捕获](topics/ai-business-and-value-capture.md)，更新目录。source id 为 `yzyx2141`。
+
+## 2026-11-19 — 摄取无人知晓 E41 / 孟岩对话阿娇；新增视频页 Highlights 约定
+
+网页检索未找到逐字稿。从有知有行页面取得官方音频（139 分钟），用 mlx-whisper 本地转录；删除片头片尾音乐上的幻觉文字，以及 01:22 附近约半分钟录音中断处 whisper 产生的重复幻觉。新增[视频页](videos/20250909-wurenzhixiao-meng-yan-a-jiao-the-other-side.md)、[阿娇人物页](people/a-jiao.md)，扩充[孟岩人物页](people/meng-yan.md)，更新目录。本期几乎不涉及 AI，未回填主题页。source id 为 `yzyx2006`。
+
+按用户要求，视频页在正文前新增 `## Highlights`（认知级总结，每条一句判断，重点加粗，带锚点）；本期之外，已为 E45、E46 和 Sutton & Javed 三期补上。
