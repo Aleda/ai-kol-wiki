@@ -60,6 +60,12 @@ kols:
     lang: en
 
   # ── 中国 ──────────────────────────────────────
+  - slug: crossing
+    name: 十字路口 Crossing（Koji）
+    channel: https://www.youtube.com/channel/UCqoy3g7ZH24j2mLOq_nbKrQ/videos
+    min_minutes: 20
+    lang: zh
+
   - slug: zhang-xiaojun
     name: 张小珺（商业访谈录）
     channel: https://www.youtube.com/@xiaojunpodcast/videos

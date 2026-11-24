@@ -3406,3 +3406,7 @@ podcastrex 转录页被 Cloudflare 人机验证拦截，改用 fetch.py 抓 Sequ
 网页检索未找到逐字稿。从有知有行页面取得官方音频（139 分钟），用 mlx-whisper 本地转录；删除片头片尾音乐上的幻觉文字，以及 01:22 附近约半分钟录音中断处 whisper 产生的重复幻觉。新增[视频页](videos/20250909-wurenzhixiao-meng-yan-a-jiao-the-other-side.md)、[阿娇人物页](people/a-jiao.md)，扩充[孟岩人物页](people/meng-yan.md)，更新目录。本期几乎不涉及 AI，未回填主题页。source id 为 `yzyx2006`。
 
 按用户要求，视频页在正文前新增 `## Highlights`（认知级总结，每条一句判断，重点加粗，带锚点）；本期之外，已为 E45、E46 和 Sutton & Javed 三期补上。
+
+## 2026-11-24 — 摄取十字路口 / 赵晨阳「用 Kimi 加速 Kimi」
+
+YouTube 视频（IaoYLdvibNU）无字幕，小宇宙 AI 文稿需登录，网页检索未找到文字版；取小宇宙同期音频（66 分钟）用 mlx-whisper 本地转录，转录稿以 YouTube id 归档。新增[视频页](videos/20261115-crossing-zhao-chenyang-kimi-accelerates-kimi-rsi.md)（含 Highlights）、[赵晨阳](people/zhao-chenyang.md)和 [Koji](people/koji-crossing.md) 人物页，回填 AI for AI、评估与 Benchmark、开源基础设施、AI 算力与基础设施、LLM 实用方法论五个主题，更新目录。新频道 slug 为 `crossing`，已加入 watchlist.yaml（YouTube 频道"Koji杨远骋"，近期视频都是 40 分钟以上的完整节目）。

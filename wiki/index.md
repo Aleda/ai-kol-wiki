@@ -200,6 +200,9 @@
 - [孟岩](people/meng-yan.md) — 有知有行创始人、「无人知晓」主播：AI 抬高内容创作基线、《智能简史》五次突破的"分别心"读法、算法放大语言的压缩代价
 - [李继刚](people/li-jigang.md) — 读书人、投资人，以公开分享 prompt 闻名：三个世界（原子/比特/向量）、从网到井、脑力交给模型心力留给人、AMV 与 memory/soul 的"环"、taste 即权重、水的教育与火的教育
 - [阿娇](people/a-jiao.md) — 张阿娇（柱子哥），前一级市场投资经理、印尼出海研究者，两次患癌：拒绝完形填空式叙事、心力是与刺痛共处、死亡没有让欲望退潮、有限性让人迸发创造力
+- [赵晨阳](people/zhao-chenyang.md) — RadixArk / SGLang 团队、SGLang-Omni：用 Kimi 加速 Kimi、能评估的就能优化、开源 BDFL、Computer Use 与 KV cache、级联语音交互、明史里的权责对等
+- [Koji（杨远骋）](people/koji-crossing.md) — 十字路口 Crossing 主播、真格基金 Venture Partner
+
 ## 主题
 
 - [LLM 训练管线](topics/llm-training-pipeline.md) — 预训练 / SFT / RL、scaling laws（含 Jensen 的四阶段扩展）、多模态融合与双塔架构、迭代速度 > 算法、线性注意力演进史（RetNet→KDA）与架构—Infra 协同设计、两个矩阵连乘的定律、NoPE
@@ -466,3 +469,7 @@
 - 2025-09-09 [孟岩对话阿娇：我的另一面，也想被注视和欣赏](videos/20250909-wurenzhixiao-meng-yan-a-jiao-the-other-side.md)（E41，约 139 分钟；标签与完形填空、超人的力气花在不坠入深渊、和骑手同吃同行的调研、讲述的意义、死亡与在场、有限性；个人经历为自述，转录稿为本地 whisper 未校对）
 - 2026-03-03 [孟岩对话李继刚：人何以自处——脑力交给模型，心力留给人](videos/20260303-wurenzhixiao-meng-yan-li-jigang-how-to-be-human.md)（E45，约 206 分钟；三个世界、从网到井、两种协作姿态、AMV 与 memory/soul、agent 面试、水与火的教育；推演为当事人自述，转录稿为本地 whisper 未校对、无说话人标签）
 - 2026-08-25 [孟岩：我们从未看见彼此——用《智能简史》的五次突破解释人为什么看不见彼此](videos/20260825-wurenzhixiao-meng-yan-we-never-see-each-other.md)（E46，独白；电影《好朋友们》、Max Bennett 五次智能突破的转述、Tim Urban 论算法、克里希那穆提的意象与全然注意力；科学内容为二手转述，转录稿为本地 whisper 未校对）
+
+### 十字路口 Crossing（Koji）
+
+- 2026-11-15 [赵晨阳：用 Kimi 加速 Kimi——RSI 前夜，一个 AI infra 人的 10 个 Aha Moments](videos/20261115-crossing-zhao-chenyang-kimi-accelerates-kimi-rsi.md)（年终复盘③；RSI 定义、评估是唯一瓶颈、开源 BDFL、UBI 与活人感、Computer Use、交互式 AI、语音输入法、明史组织学；性能数字为自述，转录稿为本地 whisper 未校对）
