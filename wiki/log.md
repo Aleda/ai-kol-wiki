@@ -3410,3 +3410,11 @@ podcastrex 转录页被 Cloudflare 人机验证拦截，改用 fetch.py 抓 Sequ
 ## 2026-11-24 — 摄取十字路口 / 赵晨阳「用 Kimi 加速 Kimi」
 
 YouTube 视频（IaoYLdvibNU）无字幕，小宇宙 AI 文稿需登录，网页检索未找到文字版；取小宇宙同期音频（66 分钟）用 mlx-whisper 本地转录，转录稿以 YouTube id 归档。新增[视频页](videos/20261115-crossing-zhao-chenyang-kimi-accelerates-kimi-rsi.md)（含 Highlights）、[赵晨阳](people/zhao-chenyang.md)和 [Koji](people/koji-crossing.md) 人物页，回填 AI for AI、评估与 Benchmark、开源基础设施、AI 算力与基础设施、LLM 实用方法论五个主题，更新目录。新频道 slug 为 `crossing`，已加入 watchlist.yaml（YouTube 频道"Koji杨远骋"，近期视频都是 40 分钟以上的完整节目）。
+
+## 2026-11-24 — 摄取十字路口 / 谷雨（年终复盘②）
+
+YouTube 视频（9J1iZuOUbx8）无字幕，取小宇宙同期音频（41 分钟）用 mlx-whisper 本地转录，删除片尾音乐上的幻觉文字。新增[视频页](videos/20261108-crossing-gu-yu-rsi-neolab-personal-agent.md)（含 Highlights）和[谷雨人物页](people/gu-yu.md)，更新 Koji、赵晨阳页面的交叉链接，回填 AI for AI、评估与 Benchmark、AI 实验室文化、LLM 实用方法论四个主题，更新目录。
+
+## 2026-11-25 — 摄取十字路口 / 庄明浩（年终复盘①）
+
+YouTube 视频（u89m4_yMI3A）无字幕，取小宇宙同期音频（53 分钟）用 mlx-whisper 本地转录；开头 30 秒为幻觉文字已删除，Koji 开场白缺失。新增[视频页](videos/20261101-crossing-zhuang-minghao-rsi-spectacle-roughness.md)（含 Highlights）和[庄明浩人物页](people/zhuang-minghao.md)，更新 Koji、谷雨、赵晨阳页面的交叉链接，回填 AI for AI、AI 商业化、LLM 安全三个主题，更新目录。年终复盘系列三期至此全部收录。

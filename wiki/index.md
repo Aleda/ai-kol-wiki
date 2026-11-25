@@ -201,6 +201,8 @@
 - [李继刚](people/li-jigang.md) — 读书人、投资人，以公开分享 prompt 闻名：三个世界（原子/比特/向量）、从网到井、脑力交给模型心力留给人、AMV 与 memory/soul 的"环"、taste 即权重、水的教育与火的教育
 - [阿娇](people/a-jiao.md) — 张阿娇（柱子哥），前一级市场投资经理、印尼出海研究者，两次患癌：拒绝完形填空式叙事、心力是与刺痛共处、死亡没有让欲望退潮、有限性让人迸发创造力
 - [赵晨阳](people/zhao-chenyang.md) — RadixArk / SGLang 团队、SGLang-Omni：用 Kimi 加速 Kimi、能评估的就能优化、开源 BDFL、Computer Use 与 KV cache、级联语音交互、明史里的权责对等
+- [庄明浩](people/zhuang-minghao.md) — 播客「屠龙之术」主播、AI 行业观察者：OpenClaw 让 agent 范式收敛、字节视频闭环、巨头夹缝里的机会、Anthropic 的 RSI 示意图、端侧追赶九个月、斩杀线与奇观、粗糙
+- [谷雨](people/gu-yu.md) — NeoCognition 联合创始人（continual learning NeoLab）：RSI 是 NeoLab 的机会、Computer Use 手解决了剩下脑、Apprentice Bench 边干边学、学术会议体系崩塌、灭火器与砖头
 - [Koji（杨远骋）](people/koji-crossing.md) — 十字路口 Crossing 主播、真格基金 Venture Partner
 
 ## 主题
@@ -472,4 +474,6 @@
 
 ### 十字路口 Crossing（Koji）
 
+- 2026-11-01 [庄明浩：RSI 来了、AI 的奇观与粗糙、巨头夹缝中的创业机会](videos/20261101-crossing-zhuang-minghao-rsi-spectacle-roughness.md)（年终复盘①；OpenClaw、Seedance 2.0、Sora 2 关闭、RSI、老硬件厂商回归、Codex 并入 ChatGPT、端侧小模型、App Store、斩杀线、Opus 5.5 与奇观；数字多为转述，转录稿为本地 whisper 未校对）
+- 2026-11-08 [谷雨：RSI 可能是 NeoLab 的机会、Personal Agent 真的有用、创业要造灭火器还是砖头？](videos/20261108-crossing-gu-yu-rsi-neolab-personal-agent.md)（年终复盘②；RSI 与大厂累赘、Computer Use、Apprentice Bench、两次被 scaling 打脸、学术体系、PhD 与创业、AI 电影、personal agent；转录稿为本地 whisper 未校对）
 - 2026-11-15 [赵晨阳：用 Kimi 加速 Kimi——RSI 前夜，一个 AI infra 人的 10 个 Aha Moments](videos/20261115-crossing-zhao-chenyang-kimi-accelerates-kimi-rsi.md)（年终复盘③；RSI 定义、评估是唯一瓶颈、开源 BDFL、UBI 与活人感、Computer Use、交互式 AI、语音输入法、明史组织学；性能数字为自述，转录稿为本地 whisper 未校对）
