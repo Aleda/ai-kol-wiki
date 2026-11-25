@@ -30,12 +30,12 @@
 <!-- STATS:BLOCK:START -->
 ## 📊 数据统计
 
-> 自动生成于 2026-11-24（每次 CI 构建刷新）。
+> 自动生成于 2026-11-25（每次 CI 构建刷新）。
 
 | 指标 | 数量 |
 |---|---|
-| 视频转录稿 | 218 |
-| 人物页 | 188 |
+| 视频转录稿 | 220 |
+| 人物页 | 190 |
 | 主题页 | 16 |
 | 关注频道 | 11（活跃 11） |
 
@@ -52,7 +52,7 @@
 | 月球大叔（Uncle Moon） | 12 |
 | Lex Fridman | 10 |
 | Andrej Karpathy | 5 |
-| 十字路口 Crossing（Koji） | 1 |
+| 十字路口 Crossing（Koji） | 3 |
 | Training Data (Sequoia Capital — Sonya Huang, Alfred Lin 等) | 1 |
 <!-- STATS:BLOCK:END -->
 
